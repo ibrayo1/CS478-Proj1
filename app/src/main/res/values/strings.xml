@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS478_Proj1</string>
+    <string name="address_btn">Address</string>
+    <string name="map_btn">Map</string>
+</resources>
